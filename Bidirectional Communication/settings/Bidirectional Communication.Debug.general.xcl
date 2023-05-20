@@ -1,0 +1,13 @@
+"C:\Program Files (x86)\IAR Systems\Embedded Workbench 7.2\arm\bin\armproc.dll" 
+
+"C:\Program Files (x86)\IAR Systems\Embedded Workbench 7.2\arm\bin\armjlink2.dll" 
+
+"C:\Users\92185\Desktop\物联网专业\物联网产品（2020）\4学校\厦门华天\比较\赛题代码\01-STM32 WiFi无线通信技术\实验8 WIFI双向通信应用实验\Bidirectional Communication\Debug\Exe\Bidirectional Communication.out" 
+
+--plugin "C:\Program Files (x86)\IAR Systems\Embedded Workbench 7.2\arm\bin\armbat.dll" 
+
+--device_macro "C:\Program Files (x86)\IAR Systems\Embedded Workbench 7.2\arm\config\debugger\ST\STM32F1xx_XL.dmac" 
+
+
+
+
